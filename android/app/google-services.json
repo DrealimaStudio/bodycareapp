@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174763139313",
+    "project_id": "dietapp-7df25",
+    "storage_bucket": "dietapp-7df25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174763139313:android:c254729242c04baa3f4950",
+        "android_client_info": {
+          "package_name": "com.example.longevity_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZxKsWxIrSFKyI-uZokRxA0HV4jbz1rHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
