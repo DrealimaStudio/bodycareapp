@@ -125,4 +125,4 @@ This project is a mobile fitness tracking application built for personal habit f
 
 ## Author
 
-Developed by **[Your Name]**
+Developed by Drealima Software Solutions
